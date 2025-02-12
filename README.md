@@ -1,1 +1,2 @@
 # Currency-Converter
+A **Currency Converter** is a web application built with **HTML, CSS, and JavaScript**, using an API to fetch real-time exchange rates. Users enter an amount, select currencies, and the app calculates the converted value. JavaScript handles API requests and calculations, while CSS styles the interface. Popular APIs for exchange rates include **ExchangeRate-API**, **Fixer API**, and **Open Exchange Rates**.
